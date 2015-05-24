@@ -1,0 +1,16 @@
+==================================================================
+Coursera
+Getting and Cleaning Data
+Course Project
+==================================================================
+Thomas Hepner
+==================================================================
+
+This file describes the variables in the tidy data set.
+======================================
+
+VARIABLES: 
+subject: the number of the subject data is being provided from (there are 30 in total)
+activity_label: label describing activity data: WALKING, WALKING UPSTAIRS, WALKING DOWNSTAIRS, SITTING, STANDING, LAYING
+
+all other variables (561): averages of the variables described in the features.txt file for each unique subject/activity_label combination. 
